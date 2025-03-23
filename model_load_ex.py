@@ -1,6 +1,3 @@
-!pip install -q -U immutabledict sentencepiece 
-!git clone https://github.com/google/gemma_pytorch.git
-
 import contextlib
 import torch
 import os
